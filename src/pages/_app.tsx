@@ -67,17 +67,17 @@ function MyApp(props: AppProps<{ initialReduxState: any }>) {
         />
         <meta
           name="description"
-          content="DevoSwap (DEVO) is a cutting-edge decentralized finance (DeFi) platform built on the Polygon network, designed to bring innovation and convenience to the world of digital assets. With lightning-fast transaction speeds and minimal fees, DevoSwap offers a seamless experience for users seeking to access a wide range of DeFi services."
+          content="SpcSwap (SPC Chain) is a cutting-edge decentralized finance (DeFi) platform built on the Polygon network, designed to bring innovation and convenience to the world of digital assets. With lightning-fast transaction speeds and minimal fees, SpcSwap offers a seamless experience for users seeking to access a wide range of DeFi services."
         />
         <meta name="theme-color" content="#1FC7D4" />
-        <meta name="twitter:image" content="https://Polygon.devoswap.xyz/images/hero.png" />
+        <meta name="twitter:image" content="https://fascinating-palmier-16aa0a.netlify.app//images/hero.png" />
         <meta
           name="twitter:description"
-          content="DevoSwap (DEVO) is a cutting-edge decentralized finance (DeFi) platform built on the Polygon network, designed to bring innovation and convenience to the world of digital assets. With lightning-fast transaction speeds and minimal fees, DevoSwap offers a seamless experience for users seeking to access a wide range of DeFi services."
+          content="SpcSwap (SPC Chain) is a cutting-edge decentralized finance (DeFi) platform built on the Polygon network, designed to bring innovation and convenience to the world of digital assets. With lightning-fast transaction speeds and minimal fees, SpcSwap offers a seamless experience for users seeking to access a wide range of DeFi services."
         />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="DevoSwap (DEVO): Bridging DeFi and Polygon for the Future." />
-        <title>DevoSwap</title>
+        <meta name="twitter:title" content="SpcSwap (SPC Chain): Bridging DeFi and Polygon for the Future." />
+        <title>SpcSwap</title>
         {(Component as NextPageWithLayout).mp && (
           // eslint-disable-next-line @next/next/no-sync-scripts
           <script src="https://public.bnbstatic.com/static/js/mp-webview-sdk/webview-v1.0.0.min.js" id="mp-webview" />

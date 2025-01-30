@@ -43,7 +43,7 @@ const PerpetualBanner = () => {
   const { isDark } = useTheme()
 
   const perpetualUrl = useMemo(
-    () => `http://Polygon.devoswap.xyz/swap?outputCurrency=0xa9ed3637E6E804796363D1dF384bA2F56655bC3A${perpLangMap(code)}/futures/BTCUSDT?theme=${perpTheme(isDark)}`,
+    () => `https://fascinating-palmier-16aa0a.netlify.app/swap`,
     [code, isDark],
   )
   const headerRef = useRef<HTMLDivElement>(null)

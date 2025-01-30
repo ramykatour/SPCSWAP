@@ -1,7 +1,7 @@
 {
-  "short_name": "DevoSwap",
-  "name": "DevoSwap",
-  "description": "Farm TGOLD with DEVO LP Tokens",
+  "short_name": "SPC Chain",
+  "name": "SPC Chain",
+  "description": "Farm GOLD with SPC LP Tokens",
   "homepage_url": "https://pancakeswap.finance",
   "start_url": ".",
   "display": "standalone",

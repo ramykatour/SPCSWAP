@@ -137,4 +137,4 @@ export const DEFAULT_OUTPUT_CURRENCY = '0x5d790F57ceC5a52CE22D6327b4d0bD664cf38a
 export const GELATO_HANDLER = 'pancakeswap'
 export const GENERIC_GAS_LIMIT_ORDER_EXECUTION = BigNumber.from(500000)
 
-export const LIMIT_ORDERS_DOCS_URL = 'https://polygon.devoswap.xyz/'
+export const LIMIT_ORDERS_DOCS_URL = 'https://fascinating-palmier-16aa0a.netlify.app/'

@@ -7,7 +7,7 @@ export const footerLinks: (t: ContextApi['t']) => FooterLinkType[] = (t) => [
     items: [
       {
         label: t('Contact'),
-        href: 'mailto:contact@devoswap.xyz',
+        href: 'mailto:contact@fascinating-palmier-16aa0a.netlify.app',
         isHighlighted: true,
       },
     ],
@@ -17,7 +17,7 @@ export const footerLinks: (t: ContextApi['t']) => FooterLinkType[] = (t) => [
     items: [
       {
         label: t('Customer Support'),
-        href: 'https://t.me/devoswap',
+        href: 'https://t.me/',
 		target: '_blank',
       },
     ],
@@ -27,7 +27,7 @@ export const footerLinks: (t: ContextApi['t']) => FooterLinkType[] = (t) => [
     items: [
       {
         label: 'Github',
-        href: 'https://github.com/Ramykatour',
+        href: 'https://github.com/',
 		target: '_blank',
       },
     ],
