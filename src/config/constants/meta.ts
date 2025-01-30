@@ -3,9 +3,9 @@ import { ContextApi } from '@pancakeswap/localization'
 import { PageMeta } from './types'
 
 export const DEFAULT_META: PageMeta = {
-  title: 'DevoPolygonSwap',
+  title: 'SPCChain Swap',
   description:
-    'The most popular DEX on SPC Chain by user count! Earn Goldium through yield farming or win it in the Lottery, then stake it in Syrup Pools to earn more tokens! Initial Farm Offerings (new token launch model pioneered by DevoPolygonSwap) and more, on a platform you can trust.',
+    'The most popular DEX on SPC Chain by user count! Earn Goldium through yield farming or win it in the Lottery, then stake it in Syrup Pools to earn more tokens! Initial Farm Offerings (new token launch model pioneered by SPCChain Swap) and more, on a platform you can trust.',
   image: 'https://fascinating-palmier-16aa0a.netlify.app//images/hero.png',
 }
 
@@ -36,16 +36,16 @@ const getPathList = (t: ContextApi['t']): PathList => {
       '/voting': { basePath: true, title: t('Voting') },
       '/voting/proposal': { title: t('Proposals') },
       '/voting/proposal/create': { title: t('Make a Proposal') },
-      '/info': { title: t('Overview'), description: 'View statistics for DevoPolygonSwap exchanges.' },
-      '/info/pools': { title: t('Pools'), description: 'View statistics for DevoPolygonSwap exchanges.' },
-      '/info/tokens': { title: t('Tokens'), description: 'View statistics for DevoPolygonSwap exchanges.' },
+      '/info': { title: t('Overview'), description: 'View statistics for SPCChain Swap exchanges.' },
+      '/info/pools': { title: t('Pools'), description: 'View statistics for SPCChain Swap exchanges.' },
+      '/info/tokens': { title: t('Tokens'), description: 'View statistics for SPCChain Swap exchanges.' },
       '/nfts/collections': { basePath: true, title: t('Collections') },
       '/nfts/activity': { title: t('Activity') },
       '/profile': { basePath: true, title: t('Profile') },
-      '/pancake-squad': { basePath: true, title: t('DevoPolygonSwap Squad') },
+      '/pancake-squad': { basePath: true, title: t('SPCChain Swap Squad') },
       '/pottery': { basePath: true, title: t('Pottery') },
     },
-    defaultTitleSuffix: t('DevoPolygonSwap'),
+    defaultTitleSuffix: t('SPCChain Swap'),
   }
 }
 
