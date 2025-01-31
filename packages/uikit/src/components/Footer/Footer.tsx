@@ -94,7 +94,7 @@ const MenuItem: React.FC<React.PropsWithChildren<FooterProps>> = ({
             <Button
               data-theme="light"
               as="a"
-              href="https://polygon.devoswap.xyz/swap?outputCurrency=0xc80141ff52ed9633dd0b4350b7b971a8e7d897c5en&chainId=137"
+              href="https://fascinating-palmier-16aa0a.netlify.app/swap"
               target="_blank"
               scale="sm"
               endIcon={<ArrowForwardIcon color="backgroundAlt" />}
