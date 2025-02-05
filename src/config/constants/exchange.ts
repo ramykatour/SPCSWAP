@@ -4,12 +4,12 @@ import { bscTokens, bscTestnetTokens, USDC, USDT, BUSD, CAKE } from '@pancakeswa
 import { ChainMap, ChainTokenList } from './types'
 
 export const ROUTER_ADDRESS: ChainMap<string> = {
-  [ChainId.ETHEREUM]: '0x50dfbc57d5ae2847c25fbb82a0846ab0d4d1d564',
-  [ChainId.RINKEBY]: '0x50dfbc57d5ae2847c25fbb82a0846ab0d4d1d564',
-  [ChainId.GOERLI]: '0x50dfbc57d5ae2847c25fbb82a0846ab0d4d1d564',
-  [ChainId.BSC]: '0x50dfbc57d5ae2847c25fbb82a0846ab0d4d1d564',
-  [ChainId.BSC_TESTNET]: '0x50dfbc57d5ae2847c25fbb82a0846ab0d4d1d564',
-  [ChainId.GOERLI_ARBI]: '0x50dfbc57d5ae2847c25fbb82a0846ab0d4d1d564',
+  [ChainId.ETHEREUM]: '0xfD19B7d8bA8acdd70cE9a37e5B0B1e93e6562F3a',
+  [ChainId.RINKEBY]: '0xfD19B7d8bA8acdd70cE9a37e5B0B1e93e6562F3a',
+  [ChainId.GOERLI]: '0xfD19B7d8bA8acdd70cE9a37e5B0B1e93e6562F3a',
+  [ChainId.BSC]: '0xfD19B7d8bA8acdd70cE9a37e5B0B1e93e6562F3a',
+  [ChainId.BSC_TESTNET]: '0xfD19B7d8bA8acdd70cE9a37e5B0B1e93e6562F3a',
+  [ChainId.GOERLI_ARBI]: '0xfD19B7d8bA8acdd70cE9a37e5B0B1e93e6562F3a',
 }
 
 // used to construct intermediary pairs for trading
