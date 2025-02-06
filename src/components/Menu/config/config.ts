@@ -58,12 +58,12 @@ const config: (
           label: t('Liquidity'),
           href: '/liquidity',
         },
-        {
-          label: t('Docs'),
-          href: 'https://swap.spcscan.io/docs.html',
-          type: DropdownMenuItemType.EXTERNAL_LINK,
-        },
       ].map((item) => addMenuItemSupported(item, chainId)),
+    },
+    {
+      label: t('Docs'),
+      href: 'https://swap.spcscan.io/docs.html',
+      type: DropdownMenuItemType.EXTERNAL_LINK,
     },
   ].map((item) => addMenuItemSupported(item, chainId));
 
