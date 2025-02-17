@@ -6,8 +6,8 @@ export const footerLinks: (t: ContextApi['t']) => FooterLinkType[] = (t) => [
     label: t('About'),
     items: [
       {
-        label: t('Contact'),
-        href: 'mailto:contact@fascinating-palmier-16aa0a.netlify.app',
+        label: t('Buy SPC'),
+        href: 'https://vindax.com/m-exchange-advanced.html?symbol=SPC_USDT',
         isHighlighted: true,
       },
     ],
@@ -17,7 +17,7 @@ export const footerLinks: (t: ContextApi['t']) => FooterLinkType[] = (t) => [
     items: [
       {
         label: t('Customer Support'),
-        href: 'https://t.me/',
+        href: 'https://t.me/StarPacificGroup',
 		target: '_blank',
       },
     ],
@@ -26,8 +26,8 @@ export const footerLinks: (t: ContextApi['t']) => FooterLinkType[] = (t) => [
     label: t('Developers'),
     items: [
       {
-        label: 'Github',
-        href: 'https://github.com/',
+        label: 'Facebook',
+        href: 'https://www.facebook.com/share/1BN5N3sGmr/?mibextid=wwXIfr',
 		target: '_blank',
       },
     ],
