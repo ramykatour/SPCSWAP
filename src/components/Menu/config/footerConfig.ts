@@ -10,10 +10,15 @@ export const footerLinks: (t: ContextApi['t']) => FooterLinkType[] = (t) => [
         href: 'https://vindax.com/m-exchange-advanced.html?symbol=SPC_USDT',
         isHighlighted: true,
       },
+	  {
+        label: t('Instagram'),
+        href: 'https://www.instagram.com/starpacificcoin?igsh=bnZ0Z2psN281cnJk',
+        isHighlighted: true,
+      },
     ],
   },
   {
-    label: t('Help'),
+    label: t('Telegram'),
     items: [
       {
         label: t('Customer Support'),
