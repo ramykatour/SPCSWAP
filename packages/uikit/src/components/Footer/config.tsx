@@ -80,7 +80,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: TwitterIcon,
-    href: "https://twitter.com/gvotoken",
+    href: "https://x.com/spcblockchain?s=11&t=N1exbPgffs8n73XZLJ_Suw",
 	target: "blank",
   },
   {
@@ -89,7 +89,7 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/devoswap",
+        href: "https://t.me/StarPacificGroup",
 		target: "blank",
       },
     ],
@@ -102,12 +102,12 @@ export const socials = [
   {
     label: "Instagram",
     icon: InstagramIcon,
-    href: "https://instagram.com/",
+    href: "https://www.instagram.com/starpacificcoin?igsh=bnZ0Z2psN281cnJk",
   },
   {
     label: "Github",
     icon: GithubIcon,
-    href: "https://github.com/ramykatour/",
+    href: "https://github.com/",
 	target: "blank",
   },
   {
