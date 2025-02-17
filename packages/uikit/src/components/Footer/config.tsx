@@ -80,7 +80,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: TwitterIcon,
-    href: "https://x.com/spcblockchain?s=11&t=N1exbPgffs8n73XZLJ_Suw",
+    href: "https://x.com/StarPacificcoin",
 	target: "blank",
   },
   {
